@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp;
+  <a href="#-tech-stack">Tech stack</a> &nbsp; / &nbsp;
   <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
   <a href="https://github.com/Addi1845?tab=repositories">All repositories</a>
 </p>
@@ -17,18 +17,20 @@ I build applications that connect user interfaces with APIs, evaluation logic, a
 
 **Open to internships and software engineering opportunities**, especially in AI tools and full-stack development.
 
-## Tech stack
+## 💻 Tech Stack
 
-Technologies used across my projects.
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js&amp;theme=dark" alt="Python, TypeScript, JavaScript" height="40"><br>Python &middot; TypeScript &middot; JavaScript |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&amp;theme=dark" alt="React, Next.js, Tailwind CSS" height="40"><br>React &middot; Next.js &middot; Tailwind CSS<br>Also: TanStack Start |
-| **APIs &amp; data** | <img src="https://skillicons.dev/icons?i=fastapi,sqlite,firebase&amp;theme=dark" alt="FastAPI, SQLite, Firebase" height="40"><br>FastAPI &middot; SQLite &middot; Firebase<br>Also: Fastify |
-| **Testing** | <img src="https://skillicons.dev/icons?i=vitest&amp;theme=dark" alt="Vitest" height="40"><br>Vitest |
-
-**Engineering focus:** data contracts, scoring pipelines, and sandboxed agent evaluation.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ## Selected projects
 
