@@ -1,21 +1,20 @@
-<h1 align="center">Aditya Patil</h1>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
+  <img src="assets/header.svg" width="100%" alt="Aditya Patil - AI tools and full-stack applications. Build, test, refine.">
+</picture>
 
-<p align="center">
-  <strong>AI tools &amp; full-stack applications</strong><br>
-  Agent reliability. Explainable ranking. Structured data workflows.
+I build tools for **reliable AI agents, explainable ranking, and structured data workflows**. My projects connect interfaces with APIs, evaluation logic, and data validation.
+
+<p>
+  <strong>Open to internships &amp; software engineering opportunities.</strong><br>
+  <sub>Learning by building, testing, and improving working software.</sub>
 </p>
 
-<p align="center">
-  <a href="#-tech-stack">Tech stack</a> &nbsp; / &nbsp;
-  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
+<p>
+  <a href="#selected-projects"><strong>Selected projects</strong></a> &nbsp; &middot; &nbsp;
+  <a href="#-tech-stack">Tech stack</a> &nbsp; &middot; &nbsp;
   <a href="https://github.com/Addi1845?tab=repositories">All repositories</a>
 </p>
-
----
-
-I build applications that connect user interfaces with APIs, evaluation logic, and data validation. I learn by building, testing, and improving working software.
-
-**Open to internships and software engineering opportunities**, especially in AI tools and full-stack development.
 
 ## 💻 Tech Stack
 
@@ -34,33 +33,40 @@ I build applications that connect user interfaces with APIs, evaluation logic, a
 
 ## Selected projects
 
-### [AgentCrash](https://github.com/Addi1845/AgentCrash)
-**Agent reliability / Evaluation**
-
-Tests an e-commerce support agent against **15 weighted scenarios** in an isolated sandbox. Includes findings, run history, and re-tests.
-
-[Code & setup](https://github.com/Addi1845/AgentCrash#readme)
-
-### [SpecGraph AI](https://github.com/Addi1845/specgraph-ai)
-**Product data / Enrichment workflows**
-
-Demonstrates product-data enrichment with evidence, confidence, a review queue, and a validated **252-column CSV export**. Uses deterministic sample enrichments.
-
-[Code & architecture](https://github.com/Addi1845/specgraph-ai#readme)
-
-### [Recruite.ai](https://github.com/Addi1845/Recruite.ai)
-**Explainable ranking / Python**
-
-Ranks candidate profiles with a Python scoring pipeline, multiprocessing, and component-level score explanations. Built for a data and AI challenge.
-
-[Code & setup](https://github.com/Addi1845/Recruite.ai#readme)
-
-### [PrivacyShield](https://github.com/Addi1845/PrivacyShield_AI)
-**Browser privacy / AI context sharing**
-
-A Chrome extension for selecting and reviewing page context before sharing it with AI, masking sensitive content during tab presentations, and sanitizing text and screenshots.
-
-[Code & setup](https://github.com/Addi1845/PrivacyShield_AI#readme)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/01-Agent_reliability-76E4BC?style=flat-square&amp;labelColor=20262D" alt="01 - Agent reliability">
+      <h3><a href="https://github.com/Addi1845/AgentCrash">AgentCrash</a></h3>
+      <p>Tests an e-commerce support agent against <strong>15 weighted scenarios</strong> in an isolated sandbox, with findings, run history, and re-tests.</p>
+      <p><sub>Sandboxed evaluation &middot; Evidence reports</sub></p>
+      <a href="https://github.com/Addi1845/AgentCrash#readme"><strong>Explore project &rarr;</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/02-Data_workflows-7CB8FF?style=flat-square&amp;labelColor=20262D" alt="02 - Data workflows">
+      <h3><a href="https://github.com/Addi1845/specgraph-ai">SpecGraph AI</a></h3>
+      <p>Product-data enrichment with evidence, confidence, a review queue, and a <strong>252-column CSV export</strong>. Uses deterministic sample enrichments.</p>
+      <p><sub>Data validation &middot; Review workflows</sub></p>
+      <a href="https://github.com/Addi1845/specgraph-ai#readme"><strong>Explore project &rarr;</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/03-Explainable_ranking-FFCA70?style=flat-square&amp;labelColor=20262D" alt="03 - Explainable ranking">
+      <h3><a href="https://github.com/Addi1845/Recruite.ai">Recruite.ai</a></h3>
+      <p>Candidate ranking with <strong>component-level score explanations</strong>, a Python scoring pipeline, and multiprocessing. Built for a data and AI challenge.</p>
+      <p><sub>Python &middot; Scoring pipelines</sub></p>
+      <a href="https://github.com/Addi1845/Recruite.ai#readme"><strong>Explore project &rarr;</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/04-Browser_privacy-FF9A8B?style=flat-square&amp;labelColor=20262D" alt="04 - Browser privacy">
+      <h3><a href="https://github.com/Addi1845/PrivacyShield_AI">PrivacyShield</a></h3>
+      <p>A Chrome extension for <strong>reviewing context before sharing with AI</strong>, masking sensitive content during tab presentations, and sanitizing text and screenshots.</p>
+      <p><sub>Chrome extension &middot; Context review</sub></p>
+      <a href="https://github.com/Addi1845/PrivacyShield_AI#readme"><strong>Explore project &rarr;</strong></a>
+    </td>
+  </tr>
+</table>
 
 ---
 

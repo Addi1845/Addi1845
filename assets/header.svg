@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Aditya Patil</title>
+  <desc id="desc">AI tools and full-stack applications. Build, test, refine.</desc>
+  <rect width="960" height="240" rx="6" fill="#101418"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="40" y="43" font-family="Consolas, monospace" font-size="16" fill="#76E4BC">ADDI1845 / SOFTWARE &amp; AI</text>
+    <text x="40" y="123" font-size="64" font-weight="700" fill="#F2F5F7">Aditya Patil<tspan fill="#76E4BC">.</tspan></text>
+    <text x="43" y="170" font-size="24" fill="#B9C4CB">AI tools &amp; full-stack applications</text>
+    <text x="919" y="43" text-anchor="end" font-family="Consolas, monospace" font-size="15" fill="#B9C4CB">build / test / refine</text>
+  </g>
+  <path d="M40 211H620" stroke="#76E4BC" stroke-width="3"/>
+  <path d="M628 211H798" stroke="#7CB8FF" stroke-width="3"/>
+  <path d="M806 211H920" stroke="#FF9A8B" stroke-width="3"/>
+</svg>
