@@ -55,12 +55,12 @@ Ranks candidate profiles with a Python scoring pipeline, multiprocessing, and co
 
 [Code & setup](https://github.com/Addi1845/Recruite.ai#readme)
 
-### [Arbiter Flow](https://github.com/Addi1845/Arbiter_FLOW)
-**Document analysis / Full-stack development**
+### [PrivacyShield](https://github.com/Addi1845/PrivacyShield_AI)
+**Browser privacy / AI context sharing**
 
-A legal-document analysis project combining a React interface, FastAPI backend, and AI-assisted review workflows.
+A Chrome extension for selecting and reviewing page context before sharing it with AI, masking sensitive content during tab presentations, and sanitizing text and screenshots.
 
-[Code & setup](https://github.com/Addi1845/Arbiter_FLOW#readme)
+[Code & setup](https://github.com/Addi1845/PrivacyShield_AI#readme)
 
 ---
 
