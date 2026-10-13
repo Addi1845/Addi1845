@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="168" viewBox="0 0 480 168" role="img" aria-labelledby="title desc">
+  <title id="title">03 / EXPLAINABLE RANKING</title>
+  <desc id="desc">Profiles to Scores to Ranked CSV. Parallel scoring · component-level reasons</desc>
+  <rect width="480" height="168" rx="6" fill="#10171B"/>
+  <path d="M1 1H479V167H1Z" fill="none" stroke="#2A3940"/>
+  <rect x="1" y="1" width="478" height="4" fill="#FFCA70"/>
+  <text x="22" y="35" font-family="Consolas, monospace" font-size="16" fill="#FFCA70">03 / EXPLAINABLE RANKING</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#E2EBEF">
+    <rect x="22" y="60" width="126" height="48" rx="4" fill="#1D2930"/>
+    <rect x="177" y="60" width="126" height="48" rx="4" fill="#1D2930"/>
+    <rect x="332" y="60" width="126" height="48" rx="4" fill="#1D2930"/>
+    <text x="85" y="90">Profiles</text>
+    <text x="240" y="90">Scores</text>
+    <text x="395" y="90">Ranked CSV</text>
+  </g>
+  <path d="M154 84H169M164 79L169 84L164 89M309 84H324M319 79L324 84L319 89" fill="none" stroke="#FFCA70" stroke-width="2"/>
+  <text x="22" y="143" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#BBC9CE">Parallel scoring · component-level reasons</text>
+</svg>
