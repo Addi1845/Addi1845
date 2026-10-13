@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
+  <title id="title">Aditya Patil - software and AI</title>
+  <desc id="desc">AI tools, full-stack applications, and data workflows. Build with curiosity. Validate with evidence.</desc>
+  <rect width="480" height="300" rx="6" fill="#10171B"/>
+  <path d="M1 1H479V299H1Z" fill="none" stroke="#2A3940"/>
+  <rect class="accent" width="5" height="300" fill="#76E4BC"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text class="eyebrow" x="26" y="36" font-family="Consolas, monospace" font-size="16" fill="#76E4BC">ADDI1845 / SOFTWARE &amp; AI</text>
+    <text class="name" x="24" y="109" font-size="54" font-weight="700" fill="#F1F6F8">Aditya Patil<tspan fill="#76E4BC">.</tspan></text>
+    <text class="role" x="26" y="150" font-size="23" fill="#D0DCE1">AI tools. Full-stack apps.</text>
+    <text class="role" x="26" y="182" font-size="23" fill="#D0DCE1">Data workflows.</text>
+    <text class="detail" x="26" y="225" font-size="20" fill="#9BACB4">Build with curiosity.</text>
+    <text class="detail" x="26" y="253" font-size="20" fill="#9BACB4">Validate with evidence.</text>
+  </g>
+  <path class="rule" d="M26 280H268" stroke="#76E4BC" stroke-width="3"/>
+  <path class="rule" d="M276 280H380" stroke="#8DC5FF" stroke-width="3"/>
+  <path class="rule" d="M388 280H454" stroke="#FFAFA1" stroke-width="3"/>
+</svg>

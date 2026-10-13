@@ -1,19 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
   <title id="title">Aditya Patil - software and AI</title>
   <desc id="desc">AI tools, full-stack applications, and data workflows. Build with curiosity. Validate with evidence.</desc>
+  <style>
+    @keyframes enter { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { from { stroke-dashoffset: 874; } to { stroke-dashoffset: 0; } }
+    @keyframes accent { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+    .accent { transform-box: fill-box; transform-origin: top; animation: accent 0.7s ease-out both; }
+    .eyebrow { animation: enter 0.6s ease-out 0.05s both; }
+    .name { animation: enter 0.8s ease-out 0.18s both; }
+    .role { animation: enter 0.7s ease-out 0.45s both; }
+    .detail { animation: enter 0.7s ease-out 0.65s both; }
+    .focus-one { animation: enter 0.6s ease-out 0.9s both; }
+    .focus-two { animation: enter 0.6s ease-out 1.05s both; }
+    .focus-three { animation: enter 0.6s ease-out 1.2s both; }
+    .rule { stroke-dasharray: 874; animation: draw 0.9s ease-out 0.7s both; }
+    @media (prefers-reduced-motion: reduce) { .accent, .eyebrow, .name, .role, .detail, .focus-one, .focus-two, .focus-three, .rule { animation: none; } }
+  </style>
   <rect width="960" height="310" rx="6" fill="#10171B"/>
   <path d="M1 1H959V309H1Z" fill="none" stroke="#2A3940"/>
-  <rect x="0" y="0" width="7" height="310" fill="#76E4BC"/>
+  <rect class="accent" x="0" y="0" width="7" height="310" fill="#76E4BC"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="42" y="42" font-family="Consolas, monospace" font-size="16" fill="#76E4BC">ADDI1845 / SOFTWARE &amp; AI</text>
-    <text x="916" y="42" text-anchor="end" font-family="Consolas, monospace" font-size="15" fill="#BBC9CE">IDEA → BUILD → VERIFY</text>
-    <text x="40" y="135" font-size="72" font-weight="700" fill="#F1F6F8">Aditya Patil<tspan fill="#76E4BC">.</tspan></text>
-    <text x="43" y="184" font-size="26" fill="#D0DCE1">AI tools. Full-stack apps. Data workflows.</text>
-    <text x="43" y="220" font-size="19" fill="#9BACB4">Build with curiosity. Validate with evidence.</text>
-    <text x="43" y="282" font-family="Consolas, monospace" font-size="16" fill="#76E4BC">AGENT RELIABILITY</text>
-    <text x="336" y="282" font-family="Consolas, monospace" font-size="16" fill="#8DC5FF">EXPLAINABLE RANKING</text>
-    <text x="665" y="282" font-family="Consolas, monospace" font-size="16" fill="#FFAFA1">BROWSER PRIVACY</text>
+    <text class="eyebrow" x="42" y="42" font-family="Consolas, monospace" font-size="16" fill="#76E4BC">ADDI1845 / SOFTWARE &amp; AI</text>
+    <text class="eyebrow" x="916" y="42" text-anchor="end" font-family="Consolas, monospace" font-size="15" fill="#BBC9CE">IDEA → BUILD → VERIFY</text>
+    <text class="name" x="40" y="135" font-size="72" font-weight="700" fill="#F1F6F8">Aditya Patil<tspan fill="#76E4BC">.</tspan></text>
+    <text class="role" x="43" y="184" font-size="26" fill="#D0DCE1">AI tools. Full-stack apps. Data workflows.</text>
+    <text class="detail" x="43" y="220" font-size="19" fill="#9BACB4">Build with curiosity. Validate with evidence.</text>
+    <text class="focus-one" x="43" y="282" font-family="Consolas, monospace" font-size="16" fill="#76E4BC">AGENT RELIABILITY</text>
+    <text class="focus-two" x="336" y="282" font-family="Consolas, monospace" font-size="16" fill="#8DC5FF">EXPLAINABLE RANKING</text>
+    <text class="focus-three" x="665" y="282" font-family="Consolas, monospace" font-size="16" fill="#FFAFA1">BROWSER PRIVACY</text>
   </g>
-  <path d="M42 248H916" stroke="#2A3940"/>
+  <path class="rule" d="M42 248H916" stroke="#2A3940"/>
   <path d="M308 266V287M637 266V287" stroke="#2A3940"/>
 </svg>

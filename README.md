@@ -1,6 +1,8 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
-  <img src="assets/header.svg" width="100%" alt="Aditya Patil - AI tools, full-stack applications, and data workflows. Build with curiosity. Validate with evidence.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/header-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.svg">
+  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg?v=2">
+  <img src="assets/header.svg?v=2" width="100%" alt="Aditya Patil - AI tools, full-stack applications, and data workflows. Build with curiosity. Validate with evidence.">
 </picture>
 
 <p align="center">
